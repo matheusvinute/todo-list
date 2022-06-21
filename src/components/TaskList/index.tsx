@@ -46,7 +46,7 @@ export function TaskList(){
     return(
         <Container>
             <header>
-                <h2>Minas Tasks</h2>
+                <h2>Minhas Tarefas</h2>
 
                 <div>
                     <input 
