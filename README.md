@@ -10,7 +10,7 @@ Projeto para fazer a gestão das atividades a serem feitas no dia a dia.
 
 Este é um projeto densenvolvido em Reactjs, para fazer gestão de atividades a serem feitas no dia a dia.
 
-[![img](https://github.com/matheusvinute/dt-money/blob/main/img.png)](#)
+[![img](https://raw.githubusercontent.com/matheusvinute/todo-lista/main/img-toDo.png)](#)
 
 ## Instruções
 
